@@ -173,7 +173,6 @@ streamlit run app.py
 ## 👤 Author
 
 **Praveg Chikte**
-*Aspiring Insurance Analytics & Risk Analytics Professional*
 
 ---
 
